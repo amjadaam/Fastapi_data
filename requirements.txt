@@ -1,4 +1,2 @@
 fastapi
-pydantic
-sqlite3
 datetime
